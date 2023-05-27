@@ -22,7 +22,7 @@ The dataset I used for training for Number plate detection:
 
 install requirements.txt in a Python>=3.7.0 environment.
 
-    git clone   # clone
+    git clone https://github.com/priyavarshinii/Automatic_Number_Plate_Recognition_YoloV5.git  # clone
     
     cd Automatic-number-plate-recognition-YOLO-OCR
     
